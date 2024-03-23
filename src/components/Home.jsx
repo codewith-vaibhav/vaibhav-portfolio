@@ -22,7 +22,7 @@ const Home = () => {
             An enthusiastic Engineer having more than 3 years of experience in Front-End Development.
           </p>
           {/* Link to download resume */}
-          <a href="src/assets/Resume.VaibhavGharpankar.pdf" download="VaibhavGharpankar.pdf" className="bg-teal-500 hover:bg-teal-700 text-white font-bold py-2 px-4 rounded">
+          <a href="/cv.vaibhav.pdf" download="cv.vaibhav.pdf" className="bg-teal-500 hover:bg-teal-700 text-white font-bold py-2 px-4 rounded">
             Download CV
           </a>
         </div>

@@ -3,17 +3,17 @@
         "id": 1, "name": "Netflix Clone", "description": "HTML, CSS, JS", "image": "/netflix.jpg", "link": "https://github.com/codewith-vaibhav/Netflix-Clone" 
       },
     {
-        "id" : 2, "name" : "YouTube Clone", "description" : "HTML, CSS, JS", "image": "/src/assets/youtube.jpg", "link": "https://github.com/codewith-vaibhav/YouTube-Clone"
+        "id" : 2, "name" : "YouTube Clone", "description" : "HTML, CSS, JS", "image": "/youtube.jpg", "link": "https://github.com/codewith-vaibhav/YouTube-Clone"
     },
     {
-        "id" : 3, "name" : "JS eCommerce", "description" : "Javascript, HTML, CSS,", "image": "/src/assets/ecom.jpg", "link": "https://github.com/codewith-vaibhav/eCommerce-made-with-JS"
+        "id" : 3, "name" : "JS eCommerce", "description" : "Javascript, HTML, CSS,", "image": "/ecom.jpg", "link": "https://github.com/codewith-vaibhav/eCommerce-made-with-JS"
     },
 
     {
-        "id" : 4, "name" : "React JS Shopping Cart", "description" : "React JS, Bootstrap", "image": "/src/assets/shopcart.jpg", "link": "https://github.com/codewith-vaibhav/React-JS-Shopping-Cart"
+        "id" : 4, "name" : "React JS Shopping Cart", "description" : "React JS, Bootstrap", "image": "/shopcart.jpg", "link": "https://github.com/codewith-vaibhav/React-JS-Shopping-Cart"
     },
     {
-        "id" : 5, "name" : "React JS and Tailwind eCom", "description" : "React Js, Tailwind CSS", "image": "/src/assets/nike.jpg", "link": "https://github.com/codewith-vaibhav/React-Tailwind-eCom"
+        "id" : 5, "name" : "React JS and Tailwind eCom", "description" : "React Js, Tailwind CSS", "image": "/nike.jpg", "link": "https://github.com/codewith-vaibhav/React-Tailwind-eCom"
     }
     
 ]
