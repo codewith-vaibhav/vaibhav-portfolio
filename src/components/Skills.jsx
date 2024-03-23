@@ -4,7 +4,7 @@ const skills = [
       name: "BASICS",
       description:
         "HTML5, CSS3, Javascript, jQuery",
-      image: "/src/assets/skills-1.png",
+      image: "/public/skills-1.png",
     },
     {
       id: 2,
