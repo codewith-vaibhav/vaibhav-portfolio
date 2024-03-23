@@ -1,6 +1,6 @@
 [
     {
-        "id": 1, "name": "Netflix Clone", "description": "HTML, CSS, JS", "image": "/public/netflix.jpg", "link": "https://github.com/codewith-vaibhav/Netflix-Clone" 
+        "id": 1, "name": "Netflix Clone", "description": "HTML, CSS, JS", "image": "/netflix.jpg", "link": "https://github.com/codewith-vaibhav/Netflix-Clone" 
       },
     {
         "id" : 2, "name" : "YouTube Clone", "description" : "HTML, CSS, JS", "image": "/src/assets/youtube.jpg", "link": "https://github.com/codewith-vaibhav/YouTube-Clone"
