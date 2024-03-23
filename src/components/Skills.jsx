@@ -4,14 +4,14 @@ const skills = [
       name: "BASICS",
       description:
         "HTML5, CSS3, Javascript, jQuery",
-      image: "src/assets/skills-4.png",
+      image: "/src/assets/skills-1.png",
     },
     {
       id: 2,
       name: "FRAMEWORK",
       description:
         "React.JS",
-      image: "src/assets/skills-4.png",
+      image: "/src/assets/skills-1.png",
     },
 
     {
@@ -19,7 +19,7 @@ const skills = [
       name: "STYLE",
       description:
         "Bootstrap, Tailwind CSS",
-      image: "src/assets/skills-4.png",
+      image: "/src/assets/skills-1.png",
     },
 
     {
@@ -27,14 +27,14 @@ const skills = [
       name: "DESIGN",
       description:
         "Figma, Adobe XD, Photoshop, Balsamiq",
-      image: "src/assets/skills-4.png",
+      image: "/src/assets/skills-1.png",
     },
     {
       id: 5,
       name: "CMS TOOLS",
       description:
         "OpenText, AEM (Adobe Experience Management)",
-      image: "/src/assets/skills-4.png",
+      image: "/src/assets/skills-1.png",
     },
 
     {
@@ -42,7 +42,7 @@ const skills = [
       name: "VERSION CONTROL",
       description:
         "Git & Github",
-      image: "/src/assets/skills-4.png",
+      image: "/src/assets/skills-1.png",
     },
 
     {
@@ -50,7 +50,7 @@ const skills = [
       name: "DATABASE",
       description:
         "MySql",
-      image: "/src/assets/skills-4.png",
+      image: "/src/assets/skills-1.png",
     },
 
    
